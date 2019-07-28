@@ -1,20 +1,7 @@
 *import java.io.*;
 
-public class Account{
-
-private int accNo;
-private String custName;
-
-    public void setAccount(int accNo,String custName)
-    {
-     this.accNo=accNo;
-     this.custName=custName;
-    }
-	
-	
-     public int getAccno()
-    {
-     return accNo;
+ class Account{
+rn accNo;
     }
 
      public String getcustName()
